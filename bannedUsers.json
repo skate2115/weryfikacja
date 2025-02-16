@@ -1,24 +1,5 @@
 {
   "banned": [
-    {
-      "userId": 1234567890,
-      "reason": "Naruszenie zasad",
-      "banUntil": "2025-02-20T12:00:00Z"
-    },
-    {
-      "userId": 1080997930,
-      "reason": "test",
-      "banUntil": "2025-02-16T12:44:17.822Z"
-    },
-    {
-      "userId": 1080997930,
-      "reason": "test",
-      "banUntil": "2025-02-16T12:48:40.254Z"
-    },
-    {
-      "userId": null,
-      "reason": "test",
-      "banUntil": null
-    }
+    1234567890
   ]
 }
