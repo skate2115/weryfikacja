@@ -1,14 +1,20 @@
 {
-  "banned": [
-    {
-      "userid": "1234567890",
-      "reason": "Cheatowanie",
-      "banUntil": "2025-02-20T12:00:00Z"
-    },
-    {
-      "userid": "9876543210",
-      "reason": "Złośliwe zachowanie",
-      "banUntil": null
-    }
-  ]
+    "banned": [
+        {
+            "userid": "1234567890",
+            "reason": "Cheatowanie",
+            "banUntil": "2025-02-20T12:00:00Z"
+        },
+        {
+            "userid": "9876543210",
+            "reason": "Złośliwe zachowanie",
+            "banUntil": null
+        },
+        {
+            "userid": 1080997930,
+            "reason": "test",
+            "bannedAt": "2025-02-16T13:54:16.994Z",
+            "banUntil": "2025-02-18T13:54:16.686Z"
+        }
+    ]
 }
