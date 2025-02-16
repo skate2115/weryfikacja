@@ -1,6 +1,9 @@
 {
-    "banned": [
-        1234567890,
-        1080997930
-    ]
+  "banned": [
+    {
+      "userId": 1234567890,
+      "reason": "Naruszenie zasad",
+      "banUntil": "2025-02-20T12:00:00Z"
+    }
+  ]
 }
