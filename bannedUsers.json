@@ -1,10 +1,14 @@
 {
   "banned": [
     {
-      "userid": 123456789,
-      "reason": "Wykorzystywanie błędów gry",
-      "bannedAt": "2025-02-16T12:00:00Z",
-      "banUntil": "2025-02-18T12:00:00Z"
+      "userid": "1234567890",
+      "reason": "Cheatowanie",
+      "banUntil": "2025-02-20T12:00:00Z"
+    },
+    {
+      "userid": "9876543210",
+      "reason": "Złośliwe zachowanie",
+      "banUntil": null
     }
   ]
 }
